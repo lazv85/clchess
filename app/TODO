@@ -1,3 +1,6 @@
 1) pretty print chess board (https://stackoverflow.com/questions/19517374/pythonic-way-to-print-a-chess-board-in-console)
 3) game statistics
 4) check for check-mate
+5) write a server to display gameboard
+6) count thinking time..
+
